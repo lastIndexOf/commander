@@ -1,8 +1,14 @@
 {
-  "name": "commander",
+  "name": "commander-cli",
   "version": "1.0.0",
   "description": "a commander cli",
   "main": "index.js",
   "author": "zfk",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "gitsearch": "gitsearch.js"
+  },
+  "devDependencies": {
+    "commander": "^2.9.0"
+  }
 }
