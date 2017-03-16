@@ -8,7 +8,9 @@
   "bin": {
     "gitsearch": "gitsearch.js"
   },
-  "devDependencies": {
-    "commander": "^2.9.0"
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "superagent": "^3.5.0"
   }
 }
