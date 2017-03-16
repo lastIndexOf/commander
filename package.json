@@ -1,0 +1,8 @@
+{
+  "name": "commander",
+  "version": "1.0.0",
+  "description": "a commander cli",
+  "main": "index.js",
+  "author": "zfk",
+  "license": "MIT"
+}
