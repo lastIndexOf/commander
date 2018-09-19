@@ -1,12 +1,12 @@
 {
   "name": "commander-test-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a commander cli",
   "main": "index.js",
   "author": "zfk",
   "license": "MIT",
   "bin": {
-    "gitsearch": "gitsearch.js"
+    "gsearch": "gitsearch.js"
   },
   "dependencies": {
     "chalk": "^1.1.3",
